@@ -1,3 +1,6 @@
+// This Code uploaded by Himanshu Gunwant on github
+// Reach me at https://github.com/monster-anshu
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
